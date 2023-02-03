@@ -24,12 +24,11 @@ Here is the list of deliverables for the analysis of the school district:
 - Software used: Jupyter notebook, Python
 - Data Sources: 
 
-## results
+## Results
 #### Districts Key Metrics
 ![Screenshot (77)](https://user-images.githubusercontent.com/89896665/216723253-500904c9-5a9a-47d7-94c4-68e0b2d77774.png)
 
 #### Top 5 Performing schools
-
 ![Screenshot (79)](https://user-images.githubusercontent.com/89896665/216723377-4db647fb-3c64-49ee-9baf-cb146e780c69.png)
 
 #### Bottom 5 performing schools
@@ -47,5 +46,5 @@ Here is the list of deliverables for the analysis of the school district:
 #### School performance based on school size
 ![Screenshot (84)](https://user-images.githubusercontent.com/89896665/216723747-5eb1528c-da6b-4fd6-9d74-eb7ae0d34d43.png)
 
-### School performance based on type of school
+#### School performance based on type of school
 ![Screenshot (85)](https://user-images.githubusercontent.com/89896665/216723817-6b266a96-2ad5-42eb-b6f0-16189e6c2ff2.png)
