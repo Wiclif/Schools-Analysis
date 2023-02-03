@@ -22,7 +22,7 @@ Here is the list of deliverables for the analysis of the school district:
 
 ## Resources
 - Software used: Jupyter notebook, Python
-- Data Sources: 
+- Data Sources: [schools_complete.csv](https://github.com/Wiclif/Schools-Analysis/blob/main/schools_complete.csv), [students_complete.csv](https://github.com/Wiclif/Schools-Analysis/blob/main/studentss_complete.csv)
 
 ## Results
 #### Districts Key Metrics
