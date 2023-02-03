@@ -24,3 +24,28 @@ Here is the list of deliverables for the analysis of the school district:
 - Software used: Jupyter notebook, Python
 - Data Sources: 
 
+## results
+#### Districts Key Metrics
+![Screenshot (77)](https://user-images.githubusercontent.com/89896665/216723253-500904c9-5a9a-47d7-94c4-68e0b2d77774.png)
+
+#### Top 5 Performing schools
+
+![Screenshot (79)](https://user-images.githubusercontent.com/89896665/216723377-4db647fb-3c64-49ee-9baf-cb146e780c69.png)
+
+#### Bottom 5 performing schools
+![Screenshot (80)](https://user-images.githubusercontent.com/89896665/216723424-ff965272-3ce4-4d8f-86ef-efd701cbd813.png)
+
+#### Average math score in each grade in each school
+![Screenshot (81)](https://user-images.githubusercontent.com/89896665/216723508-fde712ed-4338-4825-863a-9c7655543e6d.png)
+
+#### Average reading score in each grade in each school
+![Screenshot (82)](https://user-images.githubusercontent.com/89896665/216723565-ab0062fe-df45-4d8c-adbb-9848c3ad7c53.png)
+
+#### School Performance based on budget per student
+![Screenshot (83)](https://user-images.githubusercontent.com/89896665/216723678-d4f5fe64-edf7-4a75-ac6e-d02124021e34.png)
+
+#### School performance based on school size
+![Screenshot (84)](https://user-images.githubusercontent.com/89896665/216723747-5eb1528c-da6b-4fd6-9d74-eb7ae0d34d43.png)
+
+### School performance based on type of school
+![Screenshot (85)](https://user-images.githubusercontent.com/89896665/216723817-6b266a96-2ad5-42eb-b6f0-16189e6c2ff2.png)
